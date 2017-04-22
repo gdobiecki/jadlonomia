@@ -1,4 +1,9 @@
 <resources>
-    <string name="app_name">Food is good!</string>
-    <string name="hello_world">Hello World!</string>
+    <string name="app_name">Obiad niespodzianka</string>
+    <string name="main_title">Co dziś zjem?</string>
+    <string name="choose_a_dish">Wybierz danie!</string>
+    <string name="say_bye">Pożegnaj się</string>
+    <string name="bye">Ciao!</string>
+    <string name="close_app">Wyjście</string>
+    <string name="jadlonomia_url">http://www.jadlonomia.com/rodzaj_dania/dania-glowne/</string>
 </resources>
